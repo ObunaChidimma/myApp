@@ -62,7 +62,7 @@ export default function HomeScreen() {
           <Image />
           <View style={{ gap: 5 }}>
             <Text style={{ fontSize: 24, fontWeight: "bold", color: "white", marginTop: 20, }}>
-              Hi, @Obuna_Chidimma
+              Hi, @Ugwu_Victor
             </Text>
             <Text style={{ color: "grey", fontWeight: 500, fontSize: 17 }}>
               Start saving now
