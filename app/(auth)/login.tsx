@@ -162,6 +162,7 @@ const style = StyleSheet.create({
     borderRadius: 15,
     fontSize: 25,
     paddingLeft: 20,
+    color: "white",
   },
   onlyButton: {
     width: 350,
