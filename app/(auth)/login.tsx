@@ -37,10 +37,9 @@ export default function LoginScreen() {
       <View style={style.second}>
         <Image source={require("../../assets/images/profile.png")} />
         <Text style={{ fontWeight: 700, fontSize: 17, color: "white" }}>
-          Welcome, Ugwu Victor
+          Welcome, Obuna Chidimma
         </Text>
       </View>
-      {/* hi */}
       <Text
         style={{
           textAlign: "left",

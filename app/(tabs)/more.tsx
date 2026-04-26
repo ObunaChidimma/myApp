@@ -90,7 +90,7 @@ export default function MoreScreen() {
             />
             <View style={{ display: "flex", flexDirection: "row", gap: 100 }}>
               <Text style={{ fontWeight: 600, fontSize: 18, color: "white", marginTop: 5 }}>
-                @Ugwu_Victor
+                @Obuna_Chidimma
               </Text>
               <View>
                 <Image
