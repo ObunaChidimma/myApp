@@ -72,6 +72,7 @@ export default function MoreScreen() {
           marginVertical: 20,
         }}
       >
+        {/*  */}
         <View style={style.first}>
           <View
             style={{
