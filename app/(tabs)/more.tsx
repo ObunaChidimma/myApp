@@ -82,6 +82,7 @@ export default function MoreScreen() {
               alignItems: "center",
             }}
           >
+            {/* hi */}
             <Image
               source={require("../../assets/images/profile.png")}
               style={{ width: 50, height: 50 }}
