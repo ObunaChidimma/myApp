@@ -20,6 +20,7 @@ export default function LoginScreen() {
             flexDirection: "row",
             gap: 5,
             alignItems: "center",
+            marginTop: 30,
           }}
         >
           <Image
@@ -30,7 +31,7 @@ export default function LoginScreen() {
         </View>
         <Image
           source={require("../../assets/images/message.png")}
-          style={{ width: 40, height: 40, backgroundColor: "#ffffff", padding: 8, borderRadius: 50 }}
+          style={{ width: 40, height: 40, backgroundColor: "#ffffff", padding: 8, borderRadius: 50, marginTop: 30 }}
         />
       </View>
       <View style={style.second}>
@@ -95,7 +96,7 @@ export default function LoginScreen() {
           display: "flex",
           flexDirection: "row",
           alignItems: "center",
-          marginTop: 20,
+          marginTop: 10,
           gap: 5,
         }}
       >

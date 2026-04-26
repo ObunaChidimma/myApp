@@ -73,7 +73,7 @@ export default function HomeScreen() {
           {" "}
           <Pressable>
             <Image
-              style={{ width: 40, height: 40, backgroundColor: "white" }}
+              style={{ width: 40, height: 40, backgroundColor: "white", padding: 8, borderRadius: 50, marginTop: 20 }}
               source={require("../../assets/images/chart2.png")}
             />{" "}
           </Pressable>
@@ -239,6 +239,7 @@ const style = StyleSheet.create({
     width: "100%",
     justifyContent: "space-between",
     alignItems: "center",
+    // marginTop: 30,
   },
   two: {
     width: "100%",
