@@ -40,6 +40,7 @@ export default function LoginScreen() {
           Welcome, Ugwu Victor
         </Text>
       </View>
+      {/* hi */}
       <Text
         style={{
           textAlign: "left",
