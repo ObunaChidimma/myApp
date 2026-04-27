@@ -20,7 +20,7 @@ const ReferralScreen = () => {
       <View style={styles.rewardCard}>
         <Text style={styles.rewardTitle}>Rewards</Text>
         <Text style={styles.rewardText}>
-          Let’s grow together — refer your friends and family with your referral code.
+          Let's grow together — refer your friends and family with your referral code.
         </Text>
       </View>
 
